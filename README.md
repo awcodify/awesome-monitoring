@@ -10,6 +10,7 @@ Welcome to the Awesome Monitoring repository! This collection aims to curate a l
 - [Log Management](#log-management)
 - [Network Monitoring](#network-monitoring)
 - [Cloud Monitoring](#cloud-monitoring)
+- [Kubernetes Monitoring](#kubernetes-monitoring)
 
 ## Infrastructure Monitoring
 
@@ -88,6 +89,31 @@ Cloud monitoring tools are designed to monitor the performance, usage, and costs
 - [Amazon CloudWatch Documentation](https://docs.aws.amazon.com/cloudwatch/): The official documentation for Amazon CloudWatch, offering detailed guides and tutorials on using the service effectively.
 
 - [Google Cloud Monitoring Documentation](https://cloud.google.com/monitoring/docs): The official documentation for Google Cloud Monitoring, providing in-depth information on monitoring GCP resources.
+
+## Kubernetes Monitoring
+
+Monitoring tools specifically designed for Kubernetes to monitor the health and performance of Kubernetes clusters, workloads, and infrastructure.
+
+### Tools
+
+- [Prometheus Operator](https://github.com/prometheus-operator/prometheus-operator): An operator for Kubernetes that simplifies the deployment and management of Prometheus instances. It allows users to define Prometheus configurations using custom resources.
+
+- [kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): A comprehensive collection of Kubernetes manifests, Grafana dashboards, and Prometheus rules that are bundled together to set up monitoring using Prometheus Operator.
+
+- [Prometheus Adapter](https://github.com/kubernetes-sigs/prometheus-adapter): An add-on that allows custom metrics to be exposed in Kubernetes APIs, enabling Horizontal Pod Autoscaling based on custom metrics.
+
+- [kube-thanos](https://github.com/thanos-io/kube-thanos): An extension to Prometheus that enables long-term storage and global querying capabilities using Thanos. It helps to address challenges related to Prometheus's short retention periods in Kubernetes.
+
+### Resources
+
+- [Prometheus Operator Documentation](https://github.com/prometheus-operator/prometheus-operator/tree/main/Documentation): Official documentation for Prometheus Operator, providing in-depth guides on setting up Prometheus in Kubernetes.
+
+- [kube-prometheus Documentation](https://github.com/prometheus-operator/kube-prometheus/tree/main/docs): Documentation for kube-prometheus, offering detailed instructions on deploying monitoring components in Kubernetes.
+
+- [Prometheus Adapter Documentation](https://github.com/kubernetes-sigs/prometheus-adapter/tree/main/docs): Documentation for Prometheus Adapter, helping users set up custom metrics and utilize them for autoscaling in Kubernetes.
+
+- [kube-thanos README](https://github.com/thanos-io/kube-thanos#readme): Readme file for kube-thanos, providing an overview of the project and its usage.
+
 
 ## Contributing
 
