@@ -11,6 +11,8 @@ Welcome to the Awesome Monitoring repository! This collection aims to curate a l
 - [Network Monitoring](#network-monitoring)
 - [Cloud Monitoring](#cloud-monitoring)
 - [Kubernetes Monitoring](#kubernetes-monitoring)
+- [Status Page Aggregators](#status-page-aggregators)
+- [Status Page Aggregators](#status-page-aggregators)
 
 ## Infrastructure Monitoring
 
@@ -116,6 +118,23 @@ Monitoring tools specifically designed for Kubernetes to monitor the health and 
 
 
 ## Contributing
+
+## Status Page Aggregators
+
+Status page aggregators monitor multiple third-party services and aggregate their status information, helping teams quickly identify if issues are caused by upstream dependencies.
+
+### Tools
+
+- [whatbroke.today](https://whatbroke.today): AI-powered outage aggregator tracking 100+ cloud services. Provides real-time Telegram alerts, AI-generated incident summaries, and RSS feeds for DevOps workflows.
+
+- [Downdetector](https://downdetector.com/): Crowdsourced outage reporting platform that tracks user-reported problems across popular services.
+
+- [StatusGator](https://statusgator.com/): A status page aggregator that monitors cloud services and provides unified status dashboards for teams.
+
+### Resources
+
+- [whatbroke.today Telegram](https://t.me/whatbroketoday): Real-time outage alerts for cloud services via Telegram.
+
 
 If you have a suggestion for a new monitoring tool or resource, or you want to contribute to the existing list, please read the [contribution guidelines](CONTRIBUTING.md) first. We welcome and appreciate your contributions!
 
