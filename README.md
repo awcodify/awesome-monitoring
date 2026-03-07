@@ -34,6 +34,8 @@ Application monitoring tools focus on tracking the performance and health of app
 
 ### Tools
 
+- [API Status Check](https://www.apistatuscheck.com/): A free API monitoring and status check tool that tracks uptime, response time, and errors for REST APIs and web services. Provides real-time alerts and historical performance data.
+
 - [Datadog](https://www.datadog.com/): A cloud monitoring platform that offers full-stack observability. Datadog provides comprehensive monitoring, metrics, traces, and logs for infrastructure, applications, and services.
 
 - [New Relic](https://newrelic.com/): A monitoring and observability platform that provides real-time insights into the performance and health of applications, servers, and infrastructure.
