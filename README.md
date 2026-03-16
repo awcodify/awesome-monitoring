@@ -38,6 +38,8 @@ Application monitoring tools focus on tracking the performance and health of app
 
 - [New Relic](https://newrelic.com/): A monitoring and observability platform that provides real-time insights into the performance and health of applications, servers, and infrastructure.
 
+- [Foglift](https://foglift.io): A free website health monitor that tracks SEO, GEO (AI search readiness), performance, security, and accessibility scores over time. Includes an API, CLI, and GitHub Action for continuous monitoring.
+
 ### Resources
 
 - [New Relic University](https://learn.newrelic.com/): An online learning platform with courses, tutorials, and documentation on using New Relic for application monitoring and performance management.
