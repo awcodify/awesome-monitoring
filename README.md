@@ -11,6 +11,7 @@ Welcome to the Awesome Monitoring repository! This collection aims to curate a l
 - [Network Monitoring](#network-monitoring)
 - [Cloud Monitoring](#cloud-monitoring)
 - [Kubernetes Monitoring](#kubernetes-monitoring)
+- [Cron Job Monitoring](#cron-job-monitoring)
 
 ## Infrastructure Monitoring
 
@@ -114,6 +115,15 @@ Monitoring tools specifically designed for Kubernetes to monitor the health and 
 
 - [kube-thanos README](https://github.com/thanos-io/kube-thanos#readme): Readme file for kube-thanos, providing an overview of the project and its usage.
 
+
+## Cron Job Monitoring
+
+Cron job monitoring tools track whether scheduled tasks (cron jobs, batch jobs, heartbeats) run on time and complete successfully. They alert you when a job fails, runs late, or produces abnormal results.
+
+### Tools
+
+- [Crontiq](https://crontiq.io): Free cron job monitoring with automatic JSON metric extraction and zero-config anomaly detection.
+- [Healthchecks.io](https://healthchecks.io): Simple and effective cron job monitoring with integrations.
 
 ## Contributing
 
