@@ -104,6 +104,8 @@ Monitoring tools specifically designed for Kubernetes to monitor the health and 
 
 - [kube-thanos](https://github.com/thanos-io/kube-thanos): An extension to Prometheus that enables long-term storage and global querying capabilities using Thanos. It helps to address challenges related to Prometheus's short retention periods in Kubernetes.
 
+- [KubeStellar Console](https://github.com/kubestellar/console): An open source AI-powered multi-cluster Kubernetes dashboard providing real-time observability across hybrid edge and cloud environments. Features 20+ CNCF integrations (Prometheus, Grafana, Argo, Kyverno, Istio, Flux, Falco, OPA/Gatekeeper) and AI-guided cluster operations. CNCF Sandbox project (Apache 2.0).
+
 ### Resources
 
 - [Prometheus Operator Documentation](https://github.com/prometheus-operator/prometheus-operator/tree/main/Documentation): Official documentation for Prometheus Operator, providing in-depth guides on setting up Prometheus in Kubernetes.
