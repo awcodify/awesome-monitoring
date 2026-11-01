@@ -68,6 +68,8 @@ Network monitoring tools focus on monitoring network devices, traffic, and perfo
 
 - [PRTG Network Monitor](https://www.paessler.com/prtg): A powerful network monitoring tool with auto-discovery features, customizable dashboards, and extensive alerting options.
 
+- [Kilobat CLI](https://github.com/seifip/kilobat-cli): A GPL-3.0-only CLI and terminal interface for local network diagnostics and per-app traffic monitoring on macOS 14+, with JSON output and a stdio MCP server.
+
 ### Resources
 
 - [Nagios Core Documentation](https://assets.nagios.com/downloads/nagioscore/docs/nagioscore/4/en/quickstart.html): The quick start guide for Nagios Core, helping users get started with network monitoring.
