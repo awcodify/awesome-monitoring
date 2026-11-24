@@ -38,6 +38,8 @@ Application monitoring tools focus on tracking the performance and health of app
 
 - [New Relic](https://newrelic.com/): A monitoring and observability platform that provides real-time insights into the performance and health of applications, servers, and infrastructure.
 
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher): Self-hosted monitoring for website availability, response times, and certificate and domain expiry, with public status pages.
+
 ### Resources
 
 - [New Relic University](https://learn.newrelic.com/): An online learning platform with courses, tutorials, and documentation on using New Relic for application monitoring and performance management.
