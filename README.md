@@ -37,6 +37,7 @@ Application monitoring tools focus on tracking the performance and health of app
 - [Datadog](https://www.datadog.com/): A cloud monitoring platform that offers full-stack observability. Datadog provides comprehensive monitoring, metrics, traces, and logs for infrastructure, applications, and services.
 
 - [New Relic](https://newrelic.com/): A monitoring and observability platform that provides real-time insights into the performance and health of applications, servers, and infrastructure.
+- [Measure](https://measure.sh/) - Open-source mobile observability platform for monitoring crashes, ANRs, and performance issues across Android, iOS, Flutter, React Native, and Kotlin Multiplatform in Production.
 
 ### Resources
 
